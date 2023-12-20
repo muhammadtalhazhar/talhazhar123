@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @talhazhar123
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Coding
